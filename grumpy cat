@@ -1,0 +1,11 @@
+Var catOpen=document.
+  getElementById ("catOpen");
+var catClosed=document.
+ getElementById ("catClosed");
+ 
+ CatOpen.addListener("mousedown",
+  CloseTheCatsEyes);
+ CatClosed.addListener("mouseup",
+  openTheCatsEyes);
+  
+  Fucnction 
